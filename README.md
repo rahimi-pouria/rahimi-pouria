@@ -16,6 +16,7 @@ I am an experienced front-end developer with expertise in Vue.js, React.js, Nuxt
   <!-- Add other tools here with the same enchanting style -->
 </p>
 **languages and tools:**  
+<br/>
 
 
 <img align="right" alt="GIF" src="https://github.com/samogii/samogii/blob/main/full-stack-development.gif" width="500" height="320" />
